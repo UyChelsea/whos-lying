@@ -1,0 +1,1 @@
+{"name":"whos-lying-complete","version":"1.0.0","private":true,"description":"WHO'S LYING? — Bóng Tối Trong Đêm multiplayer mystery","scripts":{"start":"node server.js","check":"node --check server.js && node --check public/app.js"},"dependencies":{"express":"^4.21.2","socket.io":"^4.8.1"},"engines":{"node":">=18"}}
